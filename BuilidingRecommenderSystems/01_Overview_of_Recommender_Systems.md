@@ -22,7 +22,7 @@ There are mainly two ways to figure out a user's indivdual tastes and interests:
 
 ![Anatomy of top-N recommender](https://github.com/RuiyeNi/BookNotes/blob/master/BuilidingRecommenderSystems/Files/01_top-N_recommender.png)  
 
-Data store representing the individual interests of each user usually is a big, distributed "NoSQL" data store like Cassandra or MangoDB or memcache and something, because it has to vend lots of data but with very simple queries.   
+Data store representing the individual interests of each user usually is a big, distributed "NoSQL" data store like *Cassandra* or *MangoDB* or memcache and something, because it has to vend lots of data but with very simple queries.   
 
 **(1) Generate recommendation candidates**  
 - Based on similarities between the item and the candidiates
@@ -36,7 +36,10 @@ Data store representing the individual interests of each user usually is a big, 
 - Use a stop-list to remove items that are potentially offensive   
 - Remove items that are below some minimum quality score  
   
-  
+    
+      
+      
  ![item-based](https://github.com/RuiyeNi/BookNotes/blob/master/BuilidingRecommenderSystems/Files/01_item-based.png)  
-   
+  
+  
  Item-based collaborative filtering is not compicated from an architecture standpoint; the hard part is building up that database of item similarities. 
