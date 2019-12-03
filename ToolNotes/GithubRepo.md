@@ -7,7 +7,7 @@ What to learn:
 - Neural network based technique
 - Markov networks
 
-2. [KDD2019-HandsOn-Tutorial](https://github.com/graph-knowledgegraph/KDD2019-HandsOn-Tutorial)  
+2. [KDD2019-HandsOn-Tutorial from Graph to Konwledge Graph](https://github.com/graph-knowledgegraph/KDD2019-HandsOn-Tutorial)  
 Hands-on tutorial introduces the fundamental concepts and tools used in modeling large-scale graphs and knowledge graphs.  
 What to learn:
 - Understand basic graph properties
