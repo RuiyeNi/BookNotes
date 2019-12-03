@@ -1,5 +1,5 @@
 # BookNotes
-This repository contains notes of books, [papers](https://github.com/RuiyeNi/BookNotes/tree/master/PaperNotes) and [tools](https://github.com/RuiyeNi/BookNotes/tree/master/ToolsNotes).
+This repository contains notes of books, [papers](https://github.com/RuiyeNi/BookNotes/tree/master/PaperNotes) and [tools](https://github.com/RuiyeNi/BookNotes/tree/master/ToolNotes).
 
 ## Books listed:   
 1. [Introduction to Empirical Bayes](https://github.com/RuiyeNi/BookNotes/tree/master/EmpiricalBayes)  by David Robinson  
