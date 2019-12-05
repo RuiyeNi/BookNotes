@@ -8,3 +8,8 @@
 - Distributed & Parallel Processing: Hadoop, Spark & MPP
 - Could Services
 - Case Study: End-to-End Data Science Infrastructure of a Recomendation App
+
+3. [topic-graph-wikipedia](https://www.oncrawl.com/technical-seo/topic-graph-wikipedia/)
+- Wikipedia
+- Google Lanuage API
+- Topic Graph  
